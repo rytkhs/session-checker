@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+chrome_profile/
+saved_cookies.json
+selenium_session.pkl
+session_check.log
